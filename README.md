@@ -29,7 +29,7 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 
 ``!musicalchat - Legend of Zelda II: A Link to the Musical Chat Info``
 
-``!navyseal``
+``!hug - hug a @user :)``
 
 ``!nextap - Explains the Growing AP!``
 
@@ -40,6 +40,8 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 ``!stretch - Time for a stretch break? Let everyone know its time!``
 
 ``!unwall - When I'm ignoring a check and you want to make me feel like I really should go get it even though its probably just an ice trap or a 1-UP or a blue stud or a potion or 50 geo or max sand or a small arrowhead bundle or...``
+
+``!tracker - If you want to look at the overall progress of the main AP!``
 
 ``MUSICAL CHAT
 
