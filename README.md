@@ -43,6 +43,8 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 
 ``!tracker - If you want to look at the overall progress of the main AP!``
 
+``!jarvis - Do the funny Jarvis thing to my cam``
+
 ``MUSICAL CHAT
 
 ``!notes - to play notes for a melody (SEE MUSICAL CHAT COMMAND FOR LINK TO INSTRUCTIONS)``
