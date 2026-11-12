@@ -45,7 +45,16 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 
 ``!jarvis or !jarbis - Do the funny Jarvis thing to my cam``
 
-``MUSICAL CHAT
+``!numup - Makes Number go up``
+
+``!numdown - Makes Number go down``
+
+``!mynumber - Checks your number stats``
+
+``!hydra - GET UP ON THE HYDRAS BACK!``
+
+
+MUSICAL CHAT
 
 ``!notes - to play notes for a melody (SEE MUSICAL CHAT COMMAND FOR LINK TO INSTRUCTIONS)``
 
