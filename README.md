@@ -5,7 +5,7 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 
 ``!8ball - Ask the Magical 8ball a yes or no question and receive the WISDOM (you can also just type 8ball anywhere in a message instead of typing !8ball at the start)``
 
-``!addquote - Use this command to lock in your favorite quotes from me or your fellow chatters onto the WALL OF QUOTES! Disclaimer: this is wall is metaphorical``
+``!addquote - Use this command to lock in your favorite quotes from me or your fellow chatters onto the WALL OF QUOTES! Disclaimer: this wall is metaphorical``
 
 ``!ap - Explains what an AP or "Archipelago" is!``
 
