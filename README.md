@@ -45,6 +45,8 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 
 ``!jarvis or !jarbis - Do the funny Jarvis thing to my cam``
 
+``!navyseal - do the funny copypasta``
+
 ``!numup - Makes Number go up``
 
 ``!numdown - Makes Number go down``
@@ -52,6 +54,14 @@ Commands for Ayyyyy_Papi's twitch chat - now coming to a screen near you.. (It's
 ``!mynumber - Checks your number stats``
 
 ``!hydra - GET UP ON THE HYDRAS BACK!``
+
+``!mad - when someone is UPSET``
+
+``!maybe - Maybe ¯\_(ツ)_/¯ ``
+
+``!who - Info on the Twitch Streamer on the TV behind Papi``
+
+
 
 
 MUSICAL CHAT
